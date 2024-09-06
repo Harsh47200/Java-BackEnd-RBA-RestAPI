@@ -1,7 +1,7 @@
 # Java-BackEnd-RBA-RestAPI
 
 
-http://localhost:8081/api/registerUser -- post crate role
+http://localhost:8081/api/registerUser -- post create role
 
 http://localhost:8081/api/auth/login -- get role
 
